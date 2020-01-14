@@ -7,5 +7,7 @@ Make sure the ip_list.txt has an IP per row you want to monitor
 python app.py
 ```
 
+or python3
+
 Control+C to end
 
